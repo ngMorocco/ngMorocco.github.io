@@ -1,2 +1,2 @@
 # ngMorocco.github.io
-The Moroccan AngularJS Developer Community
+Welcome to the Moroccan AngularJS Developer Community
