@@ -1,2 +1,2 @@
-# http://ngmorocco.org/
+# http://ngmorocco.org
 Welcome to the Moroccan AngularJS Developer Community
