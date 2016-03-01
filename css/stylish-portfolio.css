@@ -236,3 +236,9 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+
+a.link-light{
+	color:#fff;
+	text-decoration:none;
+}
