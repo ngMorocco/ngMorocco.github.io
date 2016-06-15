@@ -2,8 +2,8 @@
 
 [ngMorocco.org](www.ngmorocco.org) is site for the Moroccan AngularJS Developer Community
 
+[![Dependency Status][david-badge]][david-badge-url]
 ![Join the chat](https://ngmorocco.herokuapp.com/badge.svg)
-![dependecies](https://david-dm.org/ngmorocco/ngmorocco-profile.svg)
 
 ## How you can help
 
@@ -58,5 +58,5 @@ End-to-end tests are ran via [Protractor](https://angular.github.io/protractor/)
 
 This project is hosted by GitHub pages
 
-
+[david-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile
 [david-badge-url]: https://david-dm.org/ngmorocco/ngmorocco-profile.svg
