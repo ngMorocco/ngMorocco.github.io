@@ -2,6 +2,7 @@
 
 [ngMorocco.org](www.ngmorocco.org) is site for the Moroccan AngularJS Developer Community
 
+[![Build Status][travis-badge]][travis-badge-url]
 [![Dependency Status][david-badge]][david-badge-url]
 [![devDependency Status][david-dev-badge]][david-dev-badge-url]
 [![npm][npm-badge]][npm-badge-url]
@@ -58,8 +59,10 @@ End-to-end tests are ran via [Protractor](https://angular.github.io/protractor/)
 
 ## Hosting
 
-This project is hosted by GitHub pages
+This project is hosted on a Github Page
 
+[travis-badge]: https://travis-ci.org/angular/angular-cli.svg?branch=master
+[travis-badge-url]: https://travis-ci.org/angular/angular-cli
 [slack-badge]: https://ngmorocco.herokuapp.com/badge.svg
 [slack-badge-url]: https://ngmorocco.slack.com/messages/ngmorocco-org/
 [david-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile.svg
