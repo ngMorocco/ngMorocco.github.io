@@ -58,5 +58,5 @@ End-to-end tests are ran via [Protractor](https://angular.github.io/protractor/)
 
 This project is hosted by GitHub pages
 
-[david-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile
-[david-badge-url]: https://david-dm.org/ngmorocco/ngmorocco-profile.svg
+[david-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile.svg
+[david-badge-url]: https://david-dm.org/ngmorocco/ngmorocco-profile
