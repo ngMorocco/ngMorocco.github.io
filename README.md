@@ -4,7 +4,7 @@
 
 [![Dependency Status][david-badge]][david-badge-url]
 [![devDependency Status][david-dev-badge]][david-dev-badge-url]
-![Join the chat](https://ngmorocco.herokuapp.com/badge.svg)
+[![Join the chat on Slack][slack-badge]][slack-badge-url]
 
 ## How you can help
 
@@ -59,6 +59,8 @@ End-to-end tests are ran via [Protractor](https://angular.github.io/protractor/)
 
 This project is hosted by GitHub pages
 
+[slack-badge]: https://ngmorocco.herokuapp.com/badge.svg
+[slack-badge-url]: https://ngmorocco.slack.com/messages/ngmorocco-org/
 [david-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile.svg
 [david-badge-url]: https://david-dm.org/ngmorocco/ngmorocco-profile
 [david-dev-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile/dev-status.svg
