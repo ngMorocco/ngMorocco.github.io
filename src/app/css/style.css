@@ -9,8 +9,38 @@ body {
   padding-top: 70px;
 }
 body {
-  font-family: 'Raleway';
+  font-family: 'Raleway' !important;
   font-size: 15px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.active{
+  color: #EF2D56 !important;
+}
+.nav-link{
+  text-decoration:none !important;
+}
+.social{
+  margin-right:40px;
+  font-size:20px !important;
+  color: #777 !important;
+}
+.social:hover{
+  color: #EF2D56 !important;
+}
+.mt-10{
+  margin-top:10px;
+}
+
+.navbar-right {
+  margin-right: 55px !important;
+}
+
+ul li a:hover{
+   color:#EF2D56 !important;
+ }
+
+ .btn{
+   border-radius : 0px !important;
+ }
