@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
-import { AboutComponent } from './+about';
 import { Routes , ROUTER_DIRECTIVES, ROUTER_PROVIDERS} from '@angular/router';
 import { ContactComponent } from './+contact';
 import { TeamComponent } from './+team';
 import { HomeComponent } from './+home';
+import { MeetupComponent } from './+meetup';
 
 @Component({
   moduleId: module.id,
@@ -13,10 +13,10 @@ import { HomeComponent } from './+home';
   providers: [ROUTER_PROVIDERS]
 })
 @Routes([
-  {path: '/about', component: AboutComponent},
+  {path: '/', component: HomeComponent},
   {path: '/contact', component: ContactComponent},
   {path: '/team', component: TeamComponent},
-  {path: '/home', component: HomeComponent},
+  {path: '/meetup', component: MeetupComponent}
 ])
 export class NgMoroccoAppComponent {
 

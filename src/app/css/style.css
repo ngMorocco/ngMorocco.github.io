@@ -4,17 +4,15 @@
 }
 
 html,
+
 body {
   height: 100%;
-  padding-top: 70px;
-}
-body {
+  padding-top: 60px;
   font-family: 'Raleway' !important;
   font-size: 15px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 .active{
   color: #EF2D56 !important;
 }
@@ -34,13 +32,39 @@ body {
 }
 
 .navbar-right {
-  margin-right: 55px !important;
+  margin-right: 70px !important;
 }
 
 ul li a:hover{
    color:#EF2D56 !important;
  }
-
- .btn{
+ .router-link-active {
+   color: #EF2D56  !important;
+ }
+.btn{
    border-radius : 0px !important;
  }
+ .btn:hover,.btn:active,.btn:focus{
+   background-color: #EF2D56 !important;
+   color: white !important;
+   border-color: white !important;
+ }
+.mb-50{
+  margin-bottom:50px;
+}
+.form-control{
+  border-radius: 0px !important;
+
+}
+.input{
+  height: 50px !important;
+}
+
+.mt-10-percent{
+  margin-top: 10%;
+}
+
+.full-img{
+  height: 100%;
+  width: 100%;
+}
