@@ -60,8 +60,8 @@ End-to-end tests are ran via [Protractor](https://angular.github.io/protractor/)
 
 This project is hosted on a Github Page
 
-[travis-badge]: https://travis-ci.org/angular/angular-cli.svg?branch=master
-[travis-badge-url]: https://travis-ci.org/angular/angular-cli
+[travis-badge]: https://travis-ci.org/ngMorocco/ngMorocco-profile.svg?branch=master
+[travis-badge-url]: https://travis-ci.org/ngMorocco/ngMorocco-profile
 [slack-badge]: https://ngmorocco.herokuapp.com/badge.svg
 [slack-badge-url]: https://ngmorocco.slack.com/messages/ngmorocco-org/
 [david-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile.svg
