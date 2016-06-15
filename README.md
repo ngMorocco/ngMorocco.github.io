@@ -6,7 +6,6 @@
 [![Dependency Status][david-badge]][david-badge-url]
 [![devDependency Status][david-dev-badge]][david-dev-badge-url]
 [![npm][npm-badge]][npm-badge-url]
-[![Join the chat on Slack][slack-badge]][slack-badge-url]
 
 ## How you can help
 
