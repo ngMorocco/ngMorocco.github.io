@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('font/Raleway.ttf');
+}
+
+html,
+body {
+  height: 100%;
+  padding-top: 70px;
+}
+body {
+  font-family: 'Raleway';
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
