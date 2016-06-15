@@ -3,6 +3,7 @@
 [ngMorocco.org](www.ngmorocco.org) is site for the Moroccan AngularJS Developer Community
 
 [![Dependency Status][david-badge]][david-badge-url]
+[![devDependency Status][david-dev-badge]][david-dev-badge-url]
 ![Join the chat](https://ngmorocco.herokuapp.com/badge.svg)
 
 ## How you can help
@@ -60,3 +61,5 @@ This project is hosted by GitHub pages
 
 [david-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile.svg
 [david-badge-url]: https://david-dm.org/ngmorocco/ngmorocco-profile
+[david-dev-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile/dev-status.svg
+[david-dev-badge-url]: https://david-dm.org/ngmorocco/ngmorocco-profile#info=devDependencies
