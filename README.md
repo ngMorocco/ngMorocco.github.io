@@ -1,5 +1,7 @@
 # www.ngMorocco.org
 
+[![Join the chat at https://ngmorocco.slack.com/messages/ngmorocco-org/](https://ngmorocco.herokuapp.com/badge.svg)](https://ngmorocco.slack.com/messages/ngmorocco-org/)
+
 [ngMorocco.org](www.ngmorocco.org) is site for the Moroccan AngularJS Developer Community
 
 ## How you can help
