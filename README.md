@@ -4,6 +4,7 @@
 
 [![Dependency Status][david-badge]][david-badge-url]
 [![devDependency Status][david-dev-badge]][david-dev-badge-url]
+[![npm][npm-badge]][npm-badge-url]
 [![Join the chat on Slack][slack-badge]][slack-badge-url]
 
 ## How you can help
@@ -65,3 +66,5 @@ This project is hosted by GitHub pages
 [david-badge-url]: https://david-dm.org/ngmorocco/ngmorocco-profile
 [david-dev-badge]: https://david-dm.org/ngmorocco/ngmorocco-profile/dev-status.svg
 [david-dev-badge-url]: https://david-dm.org/ngmorocco/ngmorocco-profile#info=devDependencies
+[npm-badge]: https://img.shields.io/badge/npm-3.8.9-red.svg
+[npm-badge-url]: https://github.com/ngMorocco/ngMorocco-profile
