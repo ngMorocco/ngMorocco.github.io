@@ -68,3 +68,8 @@ ul li a:hover{
   height: 100%;
   width: 100%;
 }
+
+.meetup-icon {
+  width: 34px;
+  vertical-align: bottom;
+}
