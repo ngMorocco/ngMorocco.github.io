@@ -73,3 +73,7 @@ ul li a:hover{
   width: 34px;
   vertical-align: bottom;
 }
+
+.homeContainer {
+  text-align: center;
+}
