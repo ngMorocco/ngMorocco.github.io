@@ -4,6 +4,7 @@ import { ContactComponent } from './+contact';
 import { TeamComponent } from './+team';
 import { HomeComponent } from './+home';
 import { MeetupComponent } from './+meetup';
+import {WhatWeDoComponent} from "./+whatWeDo/whatWeDo.component";
 
 @Component({
   moduleId: module.id,
@@ -16,7 +17,8 @@ import { MeetupComponent } from './+meetup';
   {path: '/', component: HomeComponent},
   {path: '/contact', component: ContactComponent},
   {path: '/team', component: TeamComponent},
-  {path: '/meetup', component: MeetupComponent}
+  {path: '/meetup', component: MeetupComponent},
+  {path: '/whatWeDo', component: WhatWeDoComponent}
 ])
 export class NgMoroccoAppComponent {
 
