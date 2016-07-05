@@ -77,3 +77,12 @@ ul li a:hover{
 .homeContainer {
   text-align: center;
 }
+
+.homeDescription {
+  text-align: center;
+}
+
+.homeDescription h4 {
+  margin: 30px 0;
+  font-size: 24px;
+}
