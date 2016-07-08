@@ -38,9 +38,10 @@ body {
 ul li a:hover{
    color:#EF2D56 !important;
  }
+ /*
  .router-link-active {
    color: #EF2D56  !important;
- }
+ }*/
 .btn{
    border-radius : 0px !important;
  }
@@ -69,9 +70,10 @@ ul li a:hover{
   width: 100%;
 }
 
-.meetup-icon {
-  width: 34px;
+.footer-icon {
+  width: 30px;
   vertical-align: bottom;
+  margin-right: 20px;
 }
 
 .homeContainer {
