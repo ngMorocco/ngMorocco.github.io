@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/app/+team/index.ts"],"names":[],"mappings":";AAAA,+BAA8B,kBAAkB,CAAC;AAAxC,uDAAwC","sourcesContent":["export { TeamComponent } from './team.component';\n"]}
