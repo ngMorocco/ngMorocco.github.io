@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/app/+whatWeDo/index.ts"],"names":[],"mappings":";AAAA,sCAAkC,yBAAyB,CAAC;AAAnD,sEAAmD","sourcesContent":["export { WhatWeDoComponent } from './whatWeDo.component.ts';\n"]}
