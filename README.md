@@ -1,4 +1,4 @@
-# www.ngMorocco.org
+# http://ngmorocco.org
 
 [ngMorocco.org](www.ngmorocco.org) is site for the Moroccan AngularJS Developer Community
 
