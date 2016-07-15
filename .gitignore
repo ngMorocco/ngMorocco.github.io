@@ -1,0 +1,10 @@
+/.idea
+dist
+tmp
+node_modules
+bower_components
+npm-debug.log
+typings
+e2e/*.js
+e2e/*.map
+.DS_Store
