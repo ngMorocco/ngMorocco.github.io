@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/app/index.ts"],"names":[],"mappings":";AAAA,4BAA0B,eAAe,CAAC;AAAlC,gDAAkC;AAC1C,qCAAoC,wBAAwB,CAAC;AAArD,6EAAqD","sourcesContent":["export {environment} from './environment';\nexport {NgMoroccoAppComponent} from './ng-morocco.component';\n"]}
