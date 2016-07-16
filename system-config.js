@@ -2,9 +2,15 @@
  * User Configuration.
  **********************************************************************************************/
 /** Map relative paths to URLs. */
-var map = {};
+var map = {
+    'bootstrap': 'vendor/bootstrap/dist/css'
+};
 /** User packages configuration. */
-var packages = {};
+var packages = {
+    'bootstrap': {
+        defaultExtension: 'css'
+    }
+};
 ////////////////////////////////////////////////////////////////////////////////////////////////
 /***********************************************************************************************
  * Everything underneath this line is managed by the CLI.

@@ -27,6 +27,11 @@ body {
 .social:hover{
   color: #EF2D56 !important;
 }
+
+.btn.btn-primary {
+    background-color: #EF2D56 !important;
+    border-color: #EF2D56 !important;
+}
 .mt-10{
   margin-top:10px;
 }
